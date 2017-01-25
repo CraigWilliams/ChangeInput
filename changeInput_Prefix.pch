@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'changeInput' target in the 'changeInput' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
